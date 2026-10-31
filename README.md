@@ -17,4 +17,4 @@ ComputerNetworkLab contains practical networking experiments, code, and simulati
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ComputerNetworkLab.git
+   git clone https://github.com/nishanthsr07/ComputerNetworkLab.git
